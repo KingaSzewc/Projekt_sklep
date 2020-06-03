@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Projekt_sklep
 {
-    class Program
+    class Produkty
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
