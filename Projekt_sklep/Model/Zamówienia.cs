@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Projekt_sklep
 {
-    class Produkty
-    {
-    }
+   public class Zamówienia
+   {
+
+
+
+   }
 }

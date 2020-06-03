@@ -10,10 +10,8 @@ namespace Projekt_sklep
     {
         public string Imie { get; set; }
         public string Nazwisko { get; set; }
-        public Klienci(string imie, string nazwisko)
+        public Klienci()
         {
-            imie = Imie;
-            nazwisko = Nazwisko;
         }
     public void DodajKlienta(Klienci nowy)
         {
